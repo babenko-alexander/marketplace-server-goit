@@ -1,0 +1,22 @@
+{
+  "name": "marketplaceproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babenko-alexander/marketplaceProject.git"
+  },
+  "author": "AlexanderBabenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babenko-alexander/marketplaceProject/issues"
+  },
+  "homepage": "https://github.com/babenko-alexander/marketplaceProject#readme",
+  "devDependencies": {
+    "morgan": "^1.9.1"
+  }
+}

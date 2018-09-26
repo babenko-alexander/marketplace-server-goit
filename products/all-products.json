@@ -1,0 +1,107 @@
+[
+	{
+		"id": 19112831,
+		"sku": 1120001,
+		"name": "Квартира",
+		"description": "Хорошая квартира в центре города",
+		"price": "20000",
+		"currency": "USD",
+		"creatorId": 1,
+		"created": "21-08-2018",
+		"modified": "21-08-2018",
+		"categories": [
+			"house",
+			"rent"
+		]
+	},
+	{
+		"id": 19112832,
+		"sku": 1120002,
+		"name": "Автомобиль",
+		"description": "Хорошая автомобиль. Почти новый",
+		"price": "10000",
+		"currency": "USD",
+		"creatorId": 1,
+		"created": "21-08-2018",
+		"modified": "21-08-2018",
+		"categories": [
+			"vehicle",
+			"car"
+		]
+	},
+	{
+		"id": 19112833,
+		"sku": 1120003,
+		"name": "Гараж",
+		"description": "Большой гараж. С погребой и ямой для ремонта.",
+		"price": "10000",
+		"currency": "USD",
+		"creatorId": 1,
+		"created": "26-08-2018",
+		"modified": "26-08-2018",
+		"categories": [
+			"garage",
+			"estate"
+		]
+	},
+	{
+		"id": 19112834,
+		"sku": 1120004,
+		"name": "Мотоцикл",
+		"description": "Крутой мотоцикл. Харлей!",
+		"price": "15000",
+		"currency": "USD",
+		"creatorId": 1,
+		"created": "26-08-2018",
+		"modified": "26-08-2018",
+		"categories": [
+			"vehicle",
+			"bike"
+		]
+	},
+	{
+		"id": 19112835,
+		"sku": 1120005,
+		"name": "Еда.",
+		"description": "Много еды. Все свежее.",
+		"price": "200",
+		"currency": "USD",
+		"creatorId": 1,
+		"created": "26-08-2018",
+		"modified": "26-08-2018",
+		"categories": [
+			"food",
+			"import"
+		]
+	},
+	{
+		"id": 19112836,
+		"sku": 1120006,
+		"name": "Текилла",
+		"description": "Мексиканская текилла. Ящик(20 литров)",
+		"price": "300",
+		"currency": "USD",
+		"creatorId": 1,
+		"created": "26-08-2018",
+		"modified": "26-08-2018",
+		"categories": [
+			"vehicle",
+			"bike"
+		]
+	},
+	{
+		"id": 19112837,
+		"sku": 1120007,
+		"name": "Котенок",
+		"description": "Котенок. Мэй-кун.",
+		"price": "200",
+		"currency": "USD",
+		"creatorId": 1,
+		"created": "26-08-2018",
+		"modified": "26-08-2018",
+		"categories": [
+			"pet",
+			"cat"
+		]
+	}
+]
