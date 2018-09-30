@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/babenko-alexander/marketplaceProject#readme",
   "devDependencies": {
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.4"
   }
 }
