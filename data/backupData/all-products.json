@@ -18,7 +18,7 @@
 		"id": 19112832,
 		"sku": 1120002,
 		"name": "Автомобиль",
-		"description": "Хорошая автомобиль. Почти новый",
+		"description": "Хороший автомобиль. Почти новый",
 		"price": "10000",
 		"currency": "USD",
 		"creatorId": 1,
@@ -33,7 +33,7 @@
 		"id": 19112833,
 		"sku": 1120003,
 		"name": "Гараж",
-		"description": "Большой гараж. С погребой и ямой для ремонта.",
+		"description": "Большой гараж. С погребом и ямой для ремонта.",
 		"price": "10000",
 		"currency": "USD",
 		"creatorId": 1,
@@ -85,15 +85,15 @@
 		"created": "26-08-2018",
 		"modified": "26-08-2018",
 		"categories": [
-			"vehicle",
-			"bike"
+			"drink",
+			"alcohol"
 		]
 	},
 	{
 		"id": 19112837,
 		"sku": 1120007,
 		"name": "Котенок",
-		"description": "Котенок. Мэй-кун.",
+		"description": "Ласковый и нежный зверь.",
 		"price": "200",
 		"currency": "USD",
 		"creatorId": 1,
